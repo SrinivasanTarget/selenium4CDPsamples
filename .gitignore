@@ -1,0 +1,8 @@
+.DS_Store
+src/test/java/output/
+.idea
+.gradle
+build/*
+test-output/*
+target/*
+*.iml
